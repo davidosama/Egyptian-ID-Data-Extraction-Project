@@ -1,4 +1,4 @@
-# Egyptian-ID-Data-Extraction
+# Egyptian ID Data Extraction
 This project was done as part of BBI's Machine and Deep Learning Workshop project.
 
 ### Project Members
